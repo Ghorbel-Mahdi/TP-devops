@@ -1,1 +1,2 @@
 "bonjour" 
+"modifi‚ par hotfix"
